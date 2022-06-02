@@ -1,0 +1,9 @@
+-------------------------------------------------------------------------------
+Test set: RunCukesTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.384 sec <<< FAILURE!
+Demonstrating how Cucumber-JVM works(demo feature)  Time elapsed: 0.154 sec  <<< ERROR!
+io.cucumber.java.PendingException: TODO: implement me
+	at stepdefs.DemoDefinitions.i_have_a_configured_Cucumber_JVM_project(DemoDefinitions.java:11)
+	at ?.I have a configured Cucumber-JVM project(file:///C:/Users/imasmoudi/Desktop/activités/cucomberproject/src/test/resources/Features/demo.feature:3)
+
